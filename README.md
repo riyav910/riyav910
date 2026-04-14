@@ -3,15 +3,15 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 B.Tech CSE @ MMMUT  
-- 🤖 Passionate about AI/ML, Computer Vision & real-world problem solving  
-- 💡 Love building impactful full-stack + AI systems  
-- 🧠 DSA (500+ problems solved)
+## About Me
+-  B.Tech CSE @ MMMUT  
+-  Passionate about AI/ML, Computer Vision & real-world problem solving  
+-  Love building impactful full-stack + AI systems  
+-  DSA (500+ problems solved)
 
 ---
 
-## 📈 Impact
+## Impact
 - 🔹 90%+ accuracy in real-time object detection (Intellicam)  
 - 🔹 100+ submissions/day automated grading system  
 - 🔹 Built multi-agent LLM research framework  
@@ -21,42 +21,42 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 Intellicam AI  
+### Intellicam AI  
 Real-time AI surveillance system with voice alerts, threat detection & logging  
 **Tech:** Python, YOLOv8, OpenCV, PyQt5  
 🔗 https://github.com/riyav910/Intellicam  
 
 ---
 
-### 🔥 OpenDeepResearcher  
+### OpenDeepResearcher  
 Agentic LLM-based research framework with multi-agent workflows & structured outputs  
 **Tech:** Python, LangGraph, LangChain, LLMs  
 🔗 https://github.com/riyav910/Open_Deep_Researcher_InfosysSpringBoard  
 
 ---
 
-### 🔥 SoulCare  
+### SoulCare  
 Full-stack mental health platform with AI chatbot & real-time counseling  
 **Tech:** MERN, FastAPI, Gemini, WebRTC  
 🔗 https://soulcare-nar5.onrender.com  
 
 ---
 
-## 👩‍💼 Current Roles
+## Current Roles
 - AI/ML Lead @ GDG MMMUT  
 - Executive Member @ Flux  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riyav910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riyav910&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&cache_seconds=86400" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riyav910&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 💻 Core Skills
+## Core Skills
 - **Languages:** C++, Python, JavaScript  
 - **AI/ML:** YOLOv8, LLMs, LangChain, LangGraph  
 - **Web Dev:** MERN Stack, FastAPI  
